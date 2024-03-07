@@ -174,8 +174,8 @@ header h1 {
 
 .answer button.selected {
   /* background: linear-gradient(180deg, #fbda81 0%, #f8b173 100%); */
-  background: #f5a76c;
-  color: #2c203d;
+  background: #9d5af5;
+  color: white;
 }
 
 .answer button.correct {
@@ -186,7 +186,7 @@ header h1 {
 
 .answer button.wrong {
   /* background: linear-gradient(180deg, #f96fb1 0%, #f52b8c 100%); */
-  background: #f55a98;
+  background: #de322e;
   color: #2c203d;
 }
 
